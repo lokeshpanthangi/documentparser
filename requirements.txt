@@ -1,0 +1,6 @@
+neo4j
+Flask
+flask-cors
+openpyxl
+pandas
+gunicorn
